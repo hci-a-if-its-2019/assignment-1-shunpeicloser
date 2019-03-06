@@ -59,14 +59,15 @@ Indosiar (<a href="indosiar.com">indosiar.com</a>) is one of many television's w
 ## Model and Annotations
 ### Artifact Models
 ![indosiar_2_art](/img/indosiar_2_art.png)
+
 ![indosiar_1_art](/img/indosiar_1_art.png)
+
 ![indosiar_3_art](/img/indosiar_3_art.png)
+
 ![indosiar_4_art](/img/indosiar_4_art.png)
 
 ### Flow Model
 ![indosiar_flow](/img/indosiar_flow.png)
 
-## Do and Don't's
-```text
-Lorem ipsum
-```
+### Cultural Model
+![indosiar_culture](/img/indosiar_culture.png)
