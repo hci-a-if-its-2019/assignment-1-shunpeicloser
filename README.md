@@ -57,7 +57,11 @@ Indosiar (<a href="indosiar.com">indosiar.com</a>) is one of many television's w
              masuk detil acaranya baru ke daftar episodenya. nge search nya manual subjudulnya.
 ```
 ## Model and Annotations
-Lorem ipsum
+### Artifact Models
+![indosiar_2_art](/img/indosiar_2_art.png)
+![indosiar_1_art](/img/indosiar_1_art.png)
+![indosiar_3_art](/img/indosiar_3_art.png)
+![indosiar_4_art](/img/indosiar_4_art.png)
 
 ## Do and Don't's
 ```text
