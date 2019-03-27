@@ -71,3 +71,12 @@ Indosiar (<a href="indosiar.com">indosiar.com</a>) is one of many television's w
 
 ### Cultural Model
 ![indosiar_culture](/img/indosiar_culture.png)
+
+# Remarks
+> * I agree that the color of the texts is less contrast. So, it may be a problem for users.
+> * However, the feature of changing language may be set intentionally by the website developer at the bottom of the page, because it's rarely used.
+> * Your work lacks of Do and Don't section
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 3            | 14               | 14              | 82.5               | 88         | 83.6  |
