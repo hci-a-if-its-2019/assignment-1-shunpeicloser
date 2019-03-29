@@ -80,4 +80,4 @@ Indosiar (<a href="indosiar.com">indosiar.com</a>) is one of many television's w
 
 | Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
 |:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
-| 3            | 14               | 14              | 77.5               | 88         | 79.6  |
+| 3            | 14               | 0               | 77.5               | 88         | 79.6  |
